@@ -18,3 +18,7 @@ To install the required dependencies, you can use the following command:
 ```bash
 pip install -r requirements.txt
 ```
+## Usage
+```bash
+python generate_transcr.py [filename.mp3] -save -dir input_directory --with-punct --continued-text 
+```
