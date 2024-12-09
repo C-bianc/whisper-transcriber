@@ -11,7 +11,7 @@ This program transcribes MP3 audio files into text using the Whisper model. By d
 
 ## Requirements:
 - Python 3.x
-- `whisper` library
+- `openai-whisper` library
 
 To install the required dependencies, you can use the following command:
 
